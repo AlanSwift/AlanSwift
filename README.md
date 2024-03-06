@@ -4,13 +4,14 @@ I am a Ph.D. student of Zhejiang University, supervised by Prof. Siliang Tang an
 
 My research interest includes Text-to-Speech Synthesis, ASR Error Correction, Graph Neural Network and Neural Machine Translation. I have published 10 papers includes NeurIPS, EMNLP, IJCAI, et.al.
 
-I have developed the first large-scale non-autoregressive text-to-Speech synthesis system [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/).
+I have developed the first large-scale non-autoregressive text-to-Speech synthesis system [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/) and the advanced version [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/).
 
 I am the main contributor of [Graph4NLP project](https://github.com/graph4ai/graph4nlp). I am one of the book chapter contributors of the book "Graph Neural Networks: Foundations, Frontiers, and Applications". 
 
 I am expected to graduate in June 2024 and seeking job opportunities. Please feel free to [contact me](mailto:shenkai200861@gmail.com) if you are interested!
 
 ### 🔥 News
+- *2024.03*: 🎉 We released [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/), which is a advanced version of NaturalSpeech serials with speech factorization.
 - *2024.01*: 🎉 NaturalSpeech 2 and PromptTTS 2 are accepted by ICLR2024 for Spotlight and Poster presentation!
 - *2023.09*: 🎉 We released [PromptTTS 2](https://speechresearch.github.io/prompttts2/), which is a large-scale TTS system using text prompt.
 - *2023.04*: 🎉 We are delighted to release our [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/), which is the first large-scale NAR TTS system. It can generate high-quality speech with only a 3-second prompt!
