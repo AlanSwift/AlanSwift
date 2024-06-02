@@ -8,10 +8,9 @@ I have developed the first large-scale non-autoregressive text-to-Speech synthes
 
 I am the main contributor of [Graph4NLP project](https://github.com/graph4ai/graph4nlp). I am one of the book chapter contributors of the book "Graph Neural Networks: Foundations, Frontiers, and Applications". 
 
-I am expected to graduate in June 2024 and seeking job opportunities. Please feel free to [contact me](mailto:shenkai200861@gmail.com) if you are interested!
 
 ### 🔥 News
-- *2024.05*: 🎉 NaturalSpeech 3 is accepted by ICML2024!
+- *2024.05*: 🎉 NaturalSpeech 3 is accepted by ICML2024 as Oral presentation!
 - *2024.03*: 🎉 We are delighted to released [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/), which is a advanced version of NaturalSpeech series with speech factorization.
 - *2024.01*: 🎉 NaturalSpeech 2 and PromptTTS 2 are accepted by ICLR2024 for Spotlight and Poster presentation!
 - *2023.09*: 🎉 We released [PromptTTS 2](https://speechresearch.github.io/prompttts2/), which is a large-scale TTS system using text prompt.
